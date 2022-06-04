@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/p404_lavender.mk
+    $(LOCAL_DIR)/arrow_lavender.mk
 
 COMMON_LUNCH_CHOICES := \
-    p404_lavender-user \
-    p404_lavender-userdebug \
-    p404_lavender-eng
+    arrow_lavender-user \
+    arrow_lavender-userdebug \
+    arrow_lavender-eng
